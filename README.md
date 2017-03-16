@@ -1,2 +1,4 @@
 # Capstone_Cloudacl
-Project proposal for Capstone
+oject proposal for Capstone
+
+Porject goal: Using spark
